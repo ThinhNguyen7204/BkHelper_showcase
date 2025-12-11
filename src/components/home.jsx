@@ -1,5 +1,5 @@
-import BannerBackground from "../Assets/home-banner-background.png";
-import BannerImage from "../Assets/home-image-banner.png";
+import BannerBackground from "../assets/home-banner-background.png";
+import BannerImage from "../assets/home-image-banner.png";
 import { FaAppStoreIos } from "react-icons/fa6";
 import { FaGooglePlay } from "react-icons/fa6";
 import Navbar from "./navbar";
