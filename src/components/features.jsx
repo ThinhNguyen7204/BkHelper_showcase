@@ -56,9 +56,9 @@ const Features = () => {
                     BkHelper integrates all the essential tools for student life, making it easier than ever to stay organized and informed.
                 </p>
             </div>
-            <div className="work-section-bottom">
+            <div className="feature-section-bottom">
                 {featureInfoData.map((data) => (
-                    <div className="work-section-info" key={data.title} data-aos="fade-up" data-aos-delay="240">
+                    <div className="feature-section-info" key={data.title} data-aos="fade-up" data-aos-delay="240">
                         <div className="info-boxes-img-container">
                             <img
                                 src={data.image}
