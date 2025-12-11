@@ -58,7 +58,7 @@ const Features = () => {
             </div>
             <div className="feature-section-bottom">
                 {featureInfoData.map((data) => (
-                    <div className="feature-section-info" key={data.title} data-aos="fade-up" data-aos-delay="240">
+                    <div className="work-section-info" key={data.title} data-aos="fade-up" data-aos-delay="240">
                         <div className="info-boxes-img-container">
                             <img
                                 src={data.image}
