@@ -18,7 +18,7 @@ const Detail = () => {
                 </p>
                 <div className="home-button-container detail-button">
                     <a
-                        href="https://www.figma.com/design/YqqXZut7JZfwqIincZwN17/BkHelper?node-id=0-1&t=AH7LUHHdvSqJqme3-1"
+                        href="https://www.behance.net/gallery/240493735/BKHelper"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="secondary-button behance-button"
